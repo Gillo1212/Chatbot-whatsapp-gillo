@@ -15,13 +15,12 @@ Compte Twilio avec numéro WhatsApp configuré
 Projet Firebase avec Firestore configuré
 
 # Installation
-Clonez ce dépôt :
-Cloner mon projet sur : https://drive.google.com/file/d/1BqYuJJGR1vcZZs2WKGAlmJ3hDtSXlF5h/view?usp=sharing
+Clonez ce dépôt : 
 cd whatsapp-gpt-assistant
 
 # Installer les dépendances :
 npm install
-Copiez le fichier .env. et remplissez-le avec vos informations
+Copiez le fichier, créer un fichier .env et confifurer le avec vos informations
 
 # Configurez vos variables d'environnement dans le fichier.env
 
